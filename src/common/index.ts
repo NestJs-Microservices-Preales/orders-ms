@@ -1,1 +1,1 @@
-export * from './envs';
+export * from './dto/pagination.dto';
